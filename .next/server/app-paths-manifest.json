@@ -1,3 +1,5 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/google-play-12-tester/page": "app/google-play-12-tester/page.js",
   "/page": "app/page.js"
 }
