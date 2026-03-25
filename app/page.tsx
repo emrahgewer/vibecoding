@@ -60,6 +60,26 @@ export default function Page() {
               </div>
             </article>
           </div>
+
+          <div className="mt-6">
+            <h3 className="text-center text-base font-semibold text-slate-200 sm:text-left">
+              Rehberler
+            </h3>
+
+            <article className="mt-3 rounded-2xl border border-slate-800 bg-slate-900/40 p-5 sm:p-6">
+              <h2 className="text-lg font-semibold">Google Play 12 Test Kullanıcısı Sorunu</h2>
+              <p className="mt-2 text-sm leading-relaxed text-slate-300">Adım adım çözüm rehberi</p>
+
+              <div className="mt-5">
+                <a
+                  href="/google-play-12-tester"
+                  className="inline-flex items-center rounded-full bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-950 focus:outline-none focus-visible:ring-2 focus-visible:ring-slate-100/40"
+                >
+                  Rehberi aç →
+                </a>
+              </div>
+            </article>
+          </div>
         </section>
 
         <footer className="mt-10 text-center text-sm text-slate-400 sm:mt-14">
